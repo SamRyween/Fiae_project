@@ -1,0 +1,118 @@
+13:28:45.359|Info| 12.Nov.2020 13:28:45
+13:28:45.389|Info| MachineName: DCMCPC2066
+13:28:45.389|Info| CpuInfo: CpuType: Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz
+13:28:45.389|Info| OSVersion: Microsoft Windows NT 6.1.7601 Service Pack 1
+13:28:45.389|Info| ClrVersion: 4.0.30319.18444
+13:28:45.389|Info| 
+13:28:45.389|Info| ExcutablePath: C:\Program Files\neuroConn\DCS.UserApp\DCS.UserApp.exe
+13:28:45.389|Info| ExecutingAssembly: DCS.UserApp, Version=1.7.4.1034, Culture=neutral, PublicKeyToken=null
+13:28:45.389|Info| Installed Softwareversion: 1.7.4
+13:28:45.389|Info| 
+13:28:45.389|Info| Referenced assemblies...
+13:28:45.759|Info| Accessibility.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| DCS.AnalyseSignals.dll, Version=1.0.6747.14992, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.AppHelper.dll, Version=1.0.6747.14989, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.BinaryFileSignal.dll, Version=1.2.1.0, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.Calibration.dll, Version=1.0.6747.14998, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.Control.dll, Version=1.0.6747.14990, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.DataIO.dll, Version=1.0.6747.14991, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.DataRecord.dll, Version=1.0.6747.14999, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.ImpedanceControl.dll, Version=1.0.6747.14999, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.RemoteControl.dll, Version=1.5.0.0, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.SetupForms.dll, Version=1.0.6747.15000, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.Signals.dll, Version=1.0.6747.14995, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.StimBlockSequence.dll, Version=1.0.6747.15000, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.StimBlockSequence.GUI.dll, Version=1.0.6747.15001, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.UserApp.exe, Version=1.7.4.1034, BuildDate=22.Jun.2018
+13:28:45.759|Info| DCS.UserAppWpf.dll, Version=1.0.0.0, BuildDate=22.Jun.2018
+13:28:45.759|Info| DlpIoAccess.dll, Version=1.0.3754.25901, BuildDate=12.Apr.2010
+13:28:45.759|Info| Ionic.Zip.dll, Version=1.9.1.8, BuildDate=07.Aug.2011
+13:28:45.759|Info| Microsoft.JScript.dll, Version=10.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| mscorlib.dll, Version=4.0.0.0, BuildDate=30.Okt.2013
+13:28:45.759|Info| NationalInstruments.Analysis.Professional.dll, Version=9.0.40.292, BuildDate=10.Nov.2010
+13:28:45.759|Info| NationalInstruments.Common.dll, Version=9.1.40.159, BuildDate=13.Jun.2011
+13:28:45.759|Info| NationalInstruments.DAQmx.dll, Version=9.4.40.50, BuildDate=20.Jul.2011
+13:28:45.759|Info| NationalInstruments.UI.dll, Version=9.0.40.292, BuildDate=10.Nov.2010
+13:28:45.759|Info| NationalInstruments.UI.WindowsForms.dll, Version=9.0.40.292, BuildDate=10.Nov.2010
+13:28:45.759|Info| NLog.dll, Version=2.0.0.0, BuildDate=18.Jul.2011
+13:28:45.759|Info| ObjectListView.dll, Version=2.5.0.14179, BuildDate=26.Sep.2011
+13:28:45.759|Info| ParallelPortAccess.dll, Version=1.0.0.0, BuildDate=27.Jan.2012
+13:28:45.759|Info| PresentationCore.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| PresentationFramework.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| PresentationUI.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| ReachFramework.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Configuration.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Configuration.Install.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Core.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Core.dll, Version=3.5.0.0, BuildDate=29.Sep.2010
+13:28:45.759|Info| System.Data.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Deployment.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.DirectoryServices.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.dll, Version=4.0.0.0, BuildDate=08.Aug.2014
+13:28:45.759|Info| System.Drawing.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Management.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Numerics.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Printing.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Runtime.Remoting.dll, Version=4.0.0.0, BuildDate=26.Feb.2014
+13:28:45.759|Info| System.Runtime.Remoting.dll, Version=2.0.0.0, BuildDate=03.Sep.2014
+13:28:45.759|Info| System.Runtime.Serialization.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Runtime.Serialization.Formatters.Soap.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Security.dll, Version=4.0.0.0, BuildDate=17.Feb.2015
+13:28:45.759|Info| System.ServiceModel.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Web.dll, Version=4.0.0.0, BuildDate=25.Jul.2014
+13:28:45.759|Info| System.Windows.Forms.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Windows.Forms.dll, Version=2.0.0.0, BuildDate=06.Feb.2015
+13:28:45.759|Info| System.Xaml.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| System.Xml.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| UIAutomationProvider.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| UIAutomationTypes.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| WindowsBase.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| WindowsFormsIntegration.dll, Version=4.0.0.0, BuildDate=12.Sep.2013
+13:28:45.759|Info| 
+13:28:46.409|Debug| 
+13:28:46.409|Debug| Enumerating devices...
+13:28:46.409|Debug| 
+13:28:46.549|Debug| Device 32109674 found.
+13:28:46.599|Debug| ADC found.
+13:28:46.599|Debug| DAC found.
+13:28:46.599|Debug| DIO found.
+13:28:46.799|Debug| 
+13:28:46.799|Debug| cDaqSerial: 32109674; cDaqID: cDAQ8; AdcID: cDAQ8Mod1; DacID: cDAQ8Mod2; DioID: cDAQ8Mod3; TrgID:          ; NumStimChannels: 4; Last calibration date: 12.Nov.2020 13:13:04; Last calibration type: All; IsHardwareSetupOk: True; 
+13:28:46.799|Debug| StimChannel_0: CurrentRefOut(min: -5; max: 5; slope: 0,99769275174609; offset: -0,00861513097361446; sinad: 0); SinadRef: 68,0595659559363; SinadStim: 59,0801935843011; CalibStatus: True; CurrentRefIn(min: -5; max: 5; slope: 0,998763860447417; offset: 0,00866753992400172; sinad: 72,1356305755952); CalibStatus: TrueVoltageStimIn(min: -5; max: 5; slope: 5,87364038588817; offset: 0,0922105866331904; sinad: 48,3822287792113); CalibStatus: TrueCurrentStimIn(min: -5; max: 5; slope: 0,996444740641854; offset: 0,0127027397187221; sinad: 64,6703338527716); CalibStatus: True; CalibStatus: True
+13:28:46.799|Debug| StimChannel_1: CurrentRefOut(min: -5; max: 5; slope: 1,00376264572334; offset: -0,00672855666180869; sinad: 0); SinadRef: 67,9992038114507; SinadStim: 59,2700414296436; CalibStatus: True; CurrentRefIn(min: -5; max: 5; slope: 0,999932951147315; offset: 0,00605995206891441; sinad: 71,8575713567331); CalibStatus: TrueVoltageStimIn(min: -5; max: 5; slope: 5,85865173814328; offset: 0,241185032009673; sinad: 48,4295018025264); CalibStatus: TrueCurrentStimIn(min: -5; max: 5; slope: 0,998576979682284; offset: 0,0122816836191647; sinad: 63,4926440817316); CalibStatus: True; CalibStatus: True
+13:28:46.799|Debug| StimChannel_2: CurrentRefOut(min: -5; max: 5; slope: 1,00843823885827; offset: -0,00253858715838974; sinad: 0); SinadRef: 67,8206147111549; SinadStim: 58,8412735504764; CalibStatus: True; CurrentRefIn(min: -5; max: 5; slope: 0,999521946352232; offset: 0,00337337233669721; sinad: 71,4088149998429); CalibStatus: TrueVoltageStimIn(min: -5; max: 5; slope: 5,89730807058323; offset: -0,00111525868428272; sinad: 48,4144356155783); CalibStatus: TrueCurrentStimIn(min: -5; max: 5; slope: 0,994806431814053; offset: 0,0363506512035181; sinad: 63,1684720601239); CalibStatus: True; CalibStatus: True
+13:28:46.799|Debug| StimChannel_3: CurrentRefOut(min: -5; max: 5; slope: 1,00497769692274; offset: 0,00211245579418743; sinad: 0); SinadRef: 68,0540871551571; SinadStim: 58,7314394345847; CalibStatus: True; CurrentRefIn(min: -5; max: 5; slope: 1,0011047774546; offset: 0,000581724141797984; sinad: 72,6309501987326); CalibStatus: TrueVoltageStimIn(min: -5; max: 5; slope: 5,90534286195892; offset: 0,174463473589043; sinad: 48,3859440678698); CalibStatus: TrueCurrentStimIn(min: -5; max: 5; slope: 0,998224494819232; offset: 0,0143021807144364; sinad: 64,819345401222); CalibStatus: True; CalibStatus: True
+13:28:46.799|Debug| 
+13:37:35.700|Debug| ChannelStimuliDefinition: Begin; ChannelNumber: 1; SignalGenerationMode: Local
+13:37:35.700|Debug| StimulusDefinition; Channel:1; StartTimeSec:3; Name: tDCS_250_0; FadeInDurationSec: 3; StimDurationSec: 1620; FadeOutDurationSec: 3; TotalDurationSec: 1626; SampleRateHz: 16000; DCOffsetmA=0.25
+13:37:35.700|Debug| ChannelStimuliDefinition: End; ChannelNumber: 1
+13:37:35.700|Debug| ChannelStimuliDefinition: Begin; ChannelNumber: 2; SignalGenerationMode: Local
+13:37:35.700|Debug| StimulusDefinition; Channel:2; StartTimeSec:3; Name: tDCS_250_0; FadeInDurationSec: 3; StimDurationSec: 1620; FadeOutDurationSec: 3; TotalDurationSec: 1626; SampleRateHz: 16000; DCOffsetmA=0.25
+13:37:35.700|Debug| ChannelStimuliDefinition: End; ChannelNumber: 2
+13:37:35.700|Debug| ChannelStimuliDefinition: Begin; ChannelNumber: 3; SignalGenerationMode: Local
+13:37:35.700|Debug| StimulusDefinition; Channel:3; StartTimeSec:3; Name: tDCS_250_0; FadeInDurationSec: 3; StimDurationSec: 1620; FadeOutDurationSec: 3; TotalDurationSec: 1626; SampleRateHz: 16000; DCOffsetmA=0.25
+13:37:35.700|Debug| ChannelStimuliDefinition: End; ChannelNumber: 3
+13:37:35.700|Debug| ChannelStimuliDefinition: Begin; ChannelNumber: 4; SignalGenerationMode: Local
+13:37:35.700|Debug| StimulusDefinition; Channel:4; StartTimeSec:3; Name: tDCS_250_0; FadeInDurationSec: 3; StimDurationSec: 1620; FadeOutDurationSec: 3; TotalDurationSec: 1626; SampleRateHz: 16000; DCOffsetmA=0.25
+13:37:35.700|Debug| ChannelStimuliDefinition: End; ChannelNumber: 4
+13:37:42.420|Debug| Start trigger released...
+13:38:06.990|Debug| Safety control has detected an error.
+StimChannel_1(connected): Voltage exceeds limit (V): 32 > 30
+
+Impedance (kOhm): 25,072290777694, CurDiffAbs (µA): 1,05682959005263, CurDiffRel (%): 0,421986660623164, VolMax (V): 31,717627841203, IsSave: False, CurRefRms (mA): 0,250441468574378, CurStimRms (mA): 0,249384638984325, VolStimRms (V): 6,50202882308957
+StimChannel_2(connected): Voltage exceeds limit (V): 32 > 30
+
+Impedance (kOhm): 26,3304286957448, CurDiffAbs (µA): 0,403491897932956, CurDiffRel (%): 0,161232327379996, VolMax (V): 31,785898973494, IsSave: False, CurRefRms (mA): 0,250254960955812, CurStimRms (mA): 0,249851469057879, VolStimRms (V): 6,82854775961346
+StimChannel_3(connected): Voltage exceeds limit (V): 32 > 30
+
+Impedance (kOhm): 28,9346774563569, CurDiffAbs (µA): 0,787477735814224, CurDiffRel (%): 0,314713562584701, VolMax (V): 31,7517358111612, IsSave: False, CurRefRms (mA): 0,250220463759735, CurStimRms (mA): 0,251007941495549, VolStimRms (V): 7,51384176765337
+StimChannel_4(connected): Voltage exceeds limit (V): 32 > 30
+
+Impedance (kOhm): 27,3278771271542, CurDiffAbs (µA): 0,420300344939006, CurDiffRel (%): 0,167981394741972, VolMax (V): 31,9705762368845, IsSave: False, CurRefRms (mA): 0,250206486012698, CurStimRms (mA): 0,249786185667759, VolStimRms (V): 7,07591237565679
+13:38:06.990|Debug| Stopping stimulation...(SafetyControl)
+13:38:06.990|Debug| Activate SafetySwitchOff for signal generation...
+13:38:07.590|Debug| Stopping dead man signal...
+13:38:07.590|Debug| Reset parallel port...
+13:38:08.590|Debug| Stopping devices...
+13:38:08.600|Debug| Device (32109674) WriteTask ended normal.
+13:38:08.830|Debug| Devices stopped.
